@@ -1,2 +1,3 @@
 Welcome to VSCode with remote repo demo!
 Function to fix bug1.
+New line EOD.
